@@ -1,4 +1,5 @@
 <img align="center" width="655" alt="Screenshot 2024-04-06 at 9 34 21 PM (2)" src="https://github.com/jg0087/WANDER-DRAFT/assets/73007013/48c8441a-fbc9-4ec2-8894-24125d2b8b7c">
+
 # *WANDER*
 Wander is an innovative attraction app designed to enhance your travels by connecting you with like-minded individuals who share your interests and passions. Whether you're a solo traveler seeking the best experiences in a city, a local looking to discover hidden gems in your city, or a group of friends planning your next adventure, Wander is your ultimate companion.
 
@@ -54,5 +55,5 @@ Embark on a journey of discovery with Wander and unlock endless possibilities fo
 
 
 
-<img src="https://forthebadge.com/images/badges/built-with-love.png" title="JavaScript" alt="JavaScript" width="300" height="20"/>&nbsp;
+<img src="https://forthebadge.com/images/badges/built-with-love.png" title="JavaScript" alt="JavaScript" width="200" height="20"/>&nbsp;
 
