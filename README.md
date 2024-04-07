@@ -12,11 +12,11 @@ Wander is an innovative attraction app designed to enhance your travels by conne
 
 **Plan**: Plan solo adventures or group outings with ease using Wander's intuitive planning tools.
 
-**Navigate**: Use Wander's interactive maps and real-time updates to navigate to your chosen destinations with confidence.
+**Navigate**: Use Wander's interactive layout to navigate to your chosen destinations with confidence.
 
 **Review and Share**: Rate and review attractions you've visited to help fellow explorers make informed decisions. Share your experiences, photos, and tips to inspire others and contribute to Wander's vibrant community of adventurers.
 
-**Connect**: Forge meaningful connections with like-minded individuals, share your experiences, and contribute to Wander's thriving community.
+**Connect**: Create meaningful connections with like-minded individuals, share your experiences, and contribute to Wander's thriving community.
 
 
 Embark on a journey of discovery with Wander and unlock endless possibilities for exploration, connection, and adventure. Start using the app today and start wandering!
@@ -46,13 +46,16 @@ Embark on a journey of discovery with Wander and unlock endless possibilities fo
 
 # :loop: Next Steps
 
-- I want to be able to customize the privacy settings of my shared itinerary, so that I can choose which ones are shared publicly and which ones are kept private.
+- Customize the privacy settings of my shared itinerary, so that I can choose which ones are shared publicly and which ones are kept private.
 
-- I want to be able to filter and sort public itineraries based on criteria such as location, duration, and type of activities, so that I can find relevant and suitable travel plans more efficiently.
+- Filter and sort public itineraries based on criteria such as location, duration, and type of activities, so that I can find relevant and suitable travel plans more efficiently.
 
-- I want the option to save or bookmark tourist attractions from other users' itineraries, so that I can easily add them to my own travel plans later.
+- Save or bookmark tourist attractions from other users' itineraries, so that I can easily add them to my own travel plans later.
 
 
 
-<img src="https://forthebadge.com/images/badges/built-with-love.png" title="JavaScript" alt="JavaScript" width="100" height="20" align="center"/>&nbsp;
+<p align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.png" title="JavaScript" alt="JavaScript" width="100" height="20" align="center"/>&nbsp;</p> 
+</p> 
+
 
