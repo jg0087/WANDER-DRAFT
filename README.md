@@ -40,7 +40,8 @@ Embark on a journey of discovery with Wander and unlock endless possibilities fo
 
 
 <a href="https://github.com/jg0087">
-    <img src="https://github.com/username.png" alt="GitHub Account" style="border-radius: 50%;" />
+    <img src="![355506597_10226248552993944_4723221575635202200_n](https://github.com/jg0087/WANDER-DRAFT/assets/73007013/a9c80825-d1ee-4fbd-af36-2cb068520bf4)
+" alt="GitHub Account" style="border-radius: 50%;" />
 </a>
 
 
