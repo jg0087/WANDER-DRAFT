@@ -39,7 +39,10 @@ Embark on a journey of discovery with Wander and unlock endless possibilities fo
 # :computer: Developers
 
 
-<img src="https://github.com/johndoe.png" width="50" height="50" alt="Avatar">[Jorge Grey](https://github.com/jg0087)
+<a href="https://github.com/jg0087">
+    <img src="https://github.com/username.png" alt="GitHub Account" style="border-radius: 50%;" />
+</a>
+
 
 
 
