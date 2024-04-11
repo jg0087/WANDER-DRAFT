@@ -39,7 +39,7 @@ Embark on a journey of discovery with Wander and unlock endless possibilities fo
 # :computer: Developers
 
 
-- [Jorge Grey](https://github.com/jg0087)
+<img src="https://github.com/johndoe.png" width="50" height="50">[Jorge Grey](https://github.com/jg0087)
 
 
 
