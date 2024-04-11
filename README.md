@@ -31,7 +31,8 @@ Embark on a journey of discovery with Wander and unlock endless possibilities fo
 </div>
 
 # Getting Started
-<a href="https://trello.com/invite/b/vIbzwvQu/ATTI980861938fa787aa7fc7b5670bf264f3604675FB/wander">
+<a href="![355506597_10226248552993944_4723221575635202200_n](https://github.com/jg0087/WANDER-DRAFT/assets/73007013/c50e3d58-03d3-4bb4-8495-f34dc74e48c8)
+">
   <img src="Trello.png width="60" height="60"" />
 </a>
 
