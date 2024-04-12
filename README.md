@@ -31,7 +31,9 @@ Embark on a journey of discovery with Wander and unlock endless possibilities fo
 </div>
 
 # Getting Started
-
+- [START WANDERING]()
+- [TRELLO](https://trello.com/b/vIbzwvQu/wander)
+- [WIREFRAME](https://www.figma.com/file/3elG79HOehHqe8LFZnoIbN/GA-Wireframes?type=design&node-id=21-2&mode=design)
 
 
 # :computer: Developers
